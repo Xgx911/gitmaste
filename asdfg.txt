@@ -4,3 +4,6 @@
 提交代码第二次数据
 提交代码第二次数据
 提交代码第二次数据
+
+git.exe push --progress "origin" main:main
+fatal: unable to access 'https://github.com/Xgx911/gitmaste.git/': Failed to connect to github.com port 443 after 21090 ms: Couldn't connect to server
